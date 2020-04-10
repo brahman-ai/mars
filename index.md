@@ -16,7 +16,7 @@ title: Mars Radio
         </section>
         <section class="splash_video">
                 <div class="video">
-                       <!-- <iframe width="1189" height="669" src="https://www.youtube.com/embed/1Az-S4MdifU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+                       <iframe width="1189" height="669" src="https://www.youtube.com/embed/1Az-S4MdifU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 <p>Just because you're stuck at home doesn't mean you can't build something amazing. Our instructors are some of the leading art and technology minds on the planet and maybe even the solar system. </p>
                 <p>Just look at some of the things we've built:</p>
@@ -29,42 +29,42 @@ title: Mars Radio
                 <h2>What You'll Learn</h2>
                 <ul>
                         <li>
-                                <img src="/img/mars_planet.jpg">
+                                <img src="/img/sections/mars_planet.jpg">
                                 <h3 class="splash-learn-title">Programming</h3>
                                 <div class="splash-learn-text">
                                         <p>We will work with various applications to teach you how to code. No prior coding experience necessary to get going. We will be using both hardware and software with a focus on open source.</p> 
                                 </div>
                         </li>
                         <li>
-                                <img src="/img/mars_wide.jpg">
+                                <img src="/img/sections/mars_wide.jpg">
                                 <h3 class="splash-learn-title">Off Grid Living</h3>
                                 <div class="splash-learn-text">
                                         <p>Our world is currently unsustainable but we believe we can fix that. Learn to harness the power of sun through our solar power instructions.</p>
                                 </div>
                         </li>
                         <li>
-                                <img src="/img/mars_planet.jpg">
+                                <img src="/img/sections/mars_planet.jpg">
                                 <h3 class="splash-learn-title">Networking</h3>
                                 <div class="splash-learn-text">
                                         <p>Our interconnected world is getting more complicated every day. Learn how the internet REALLY works and how to build your own self sustained network.</p>
                                 </div>
                         </li>
                         <li>
-                                <img src="/img/soldering_tools.jpg">
+                                <img src="/img/sections/soldering_tools.jpg">
                                 <h3 class="splash-learn-title">Electronics</h3>
                                 <div class="splash-learn-text">
                                         <p>Using Arduino and Raspery Pi you'll be amazed at how many things you can create. From programing your own LED light shows to creating your own instruments.</p>
                                         </div>                                 
                         </li>
                         <li>
-                                <img src="/img/mars_planet.jpg">
+                                <img src="/img/sections/mars_planet.jpg">
                                 <h3 class="splash-learn-title">Digital Visualization</h3>
                                 <div class="splash-learn-text">
                                         <p>Create custom animation and graphics that will connect... (not sure what to write here)</p>
                                 </div>
                         </li>
                         <li>
-                                <img src="img/mars_planet.jpg">
+                                <img src="img/sections/mars_planet.jpg">
                                 <h3 class="splash-learn-title">Artificial Intelligence</h3>
                                 <div class="splash-learn-text">
                                         <p>Need blurb</p>
