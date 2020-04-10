@@ -1,0 +1,12 @@
+@import '/css/scss/modules/resets.scss';
+@import '/css/scss/modules/mixins.scss';
+@import '/css/scss/modules/colors.scss';
+@import '/css/scss/modules/typography.scss';
+
+img{
+        // width:100%;
+        // height:auto;
+}
+
+/* Pages */
+@import '/css/scss/pages/splash.scss';
